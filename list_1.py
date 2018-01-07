@@ -14,7 +14,7 @@ for x in list:
         list.remove(x)
 print(list)
 
-
+#print:[2,2,2]
 
 list = [1,2,1,2,1,1,1]
 
